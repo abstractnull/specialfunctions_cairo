@@ -5,7 +5,7 @@ We will start working with the classical special functions such as Γ(Gamma), Be
 
 V0.1 18/04 Working Gamma/LogGamma in both Lanczos/Windschitl approximations for real part(in fixed point math).
 
-TODO: Implement Beta/Psi and newest approximations like Nemes' etc. Extend to complex valued Gamma, etc.
+TODO: Implement Beta as Gamma Related fn/Psi and newest approximations like Nemes' etc. Extend to complex valued Gamma, etc.
 
 Actual scope: This project is part of a general research on compact numerical methods in acccordance to Cairo architecture constraints. 
 
