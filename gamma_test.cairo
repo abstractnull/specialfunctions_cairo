@@ -1,6 +1,7 @@
 %builtins range_check
 #simple test of LogGamma,Gamma integers & half-integers
 #TODO migrate to real comprehensive test
+#Test ok Jul 22
 
 from math_libs.special_functions import (
     Special_functions_gamma_half_int,
